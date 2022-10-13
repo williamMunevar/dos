@@ -4,8 +4,8 @@
     id="id-e5c85cc4afb24bc4b91ced9388ff5dec">
   <source
       xsi:type="archimate:Representation"
-      href="file:/C:/Users/sampu/AppData/Roaming/Archi4/model-repository/primeroarchy/model/relations/Representation_id-3a28bc2ecbfd4551879eb0ad259128bc.xml#id-3a28bc2ecbfd4551879eb0ad259128bc"/>
+      href="Representation_id-3a28bc2ecbfd4551879eb0ad259128bc.xml#id-3a28bc2ecbfd4551879eb0ad259128bc"/>
   <target
       xsi:type="archimate:BusinessEvent"
-      href="file:/C:/Users/sampu/AppData/Roaming/Archi4/model-repository/primeroarchy/model/relations/BusinessEvent_id-78076c02ad6742c597d38725bcc664d3.xml#id-78076c02ad6742c597d38725bcc664d3"/>
+      href="BusinessEvent_id-78076c02ad6742c597d38725bcc664d3.xml#id-78076c02ad6742c597d38725bcc664d3"/>
 </archimate:AssociationRelationship>

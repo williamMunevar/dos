@@ -4,8 +4,8 @@
     id="id-b709f7220a604587b46c48db18992aa5">
   <source
       xsi:type="archimate:BusinessProcess"
-      href="file:/C:/Users/sampu/AppData/Roaming/Archi4/model-repository/primeroarchy/model/relations/BusinessProcess_id-816564132bfb48789317c8c752eb56de.xml#id-816564132bfb48789317c8c752eb56de"/>
+      href="BusinessProcess_id-816564132bfb48789317c8c752eb56de.xml#id-816564132bfb48789317c8c752eb56de"/>
   <target
       xsi:type="archimate:Contract"
-      href="file:/C:/Users/sampu/AppData/Roaming/Archi4/model-repository/primeroarchy/model/relations/Contract_id-3a316a8a53b8427fbac949f3bd775345.xml#id-3a316a8a53b8427fbac949f3bd775345"/>
+      href="Contract_id-3a316a8a53b8427fbac949f3bd775345.xml#id-3a316a8a53b8427fbac949f3bd775345"/>
 </archimate:AccessRelationship>

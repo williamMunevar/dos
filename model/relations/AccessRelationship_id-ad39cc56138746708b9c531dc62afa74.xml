@@ -4,8 +4,8 @@
     id="id-ad39cc56138746708b9c531dc62afa74">
   <source
       xsi:type="archimate:BusinessActor"
-      href="file:/C:/Users/sampu/AppData/Roaming/Archi4/model-repository/primeroarchy/model/relations/BusinessActor_id-fe6f885c18dd47878e6cd618c1e723f2.xml#id-fe6f885c18dd47878e6cd618c1e723f2"/>
+      href="BusinessActor_id-fe6f885c18dd47878e6cd618c1e723f2.xml#id-fe6f885c18dd47878e6cd618c1e723f2"/>
   <target
       xsi:type="archimate:Representation"
-      href="file:/C:/Users/sampu/AppData/Roaming/Archi4/model-repository/primeroarchy/model/relations/Representation_id-3a28bc2ecbfd4551879eb0ad259128bc.xml#id-3a28bc2ecbfd4551879eb0ad259128bc"/>
+      href="Representation_id-3a28bc2ecbfd4551879eb0ad259128bc.xml#id-3a28bc2ecbfd4551879eb0ad259128bc"/>
 </archimate:AccessRelationship>
