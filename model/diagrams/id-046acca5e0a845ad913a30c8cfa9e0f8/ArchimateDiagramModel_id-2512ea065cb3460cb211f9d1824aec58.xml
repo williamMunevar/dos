@@ -134,7 +134,7 @@
         height="31"/>
     <archimateElement
         xsi:type="archimate:Constraint"
-        href="Constraint_id-fd71ae1637f1472f95c1d0525bcfe256.xml#id-fd71ae1637f1472f95c1d0525bcfe256"/>
+        href="file:/C:/Users/sampu/AppData/Roaming/Archi4/model-repository/dos/model/diagrams/id-046acca5e0a845ad913a30c8cfa9e0f8/Constraint_id-fd71ae1637f1472f95c1d0525bcfe256.xml#id-fd71ae1637f1472f95c1d0525bcfe256"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -146,7 +146,7 @@
         height="35"/>
     <archimateElement
         xsi:type="archimate:Principle"
-        href="Principle_id-6689841251c745a1a934158400860679.xml#id-6689841251c745a1a934158400860679"/>
+        href="file:/C:/Users/sampu/AppData/Roaming/Archi4/model-repository/dos/model/diagrams/id-046acca5e0a845ad913a30c8cfa9e0f8/Principle_id-6689841251c745a1a934158400860679.xml#id-6689841251c745a1a934158400860679"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

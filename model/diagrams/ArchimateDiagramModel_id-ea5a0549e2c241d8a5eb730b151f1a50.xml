@@ -13,7 +13,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
-        href="file:/C:/Users/sampu/AppData/Roaming/Archi4/model-repository/primeroarchy/model/diagrams/BusinessActor_id-b15a5c22d12c4ca7a021daa3e411766c.xml#id-b15a5c22d12c4ca7a021daa3e411766c"/>
+        href="BusinessActor_id-b15a5c22d12c4ca7a021daa3e411766c.xml#id-b15a5c22d12c4ca7a021daa3e411766c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -25,6 +25,6 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
-        href="file:/C:/Users/sampu/AppData/Roaming/Archi4/model-repository/primeroarchy/model/diagrams/BusinessEvent_id-33bc9accbe69491c85c2c62244816d3f.xml#id-33bc9accbe69491c85c2c62244816d3f"/>
+        href="BusinessEvent_id-33bc9accbe69491c85c2c62244816d3f.xml#id-33bc9accbe69491c85c2c62244816d3f"/>
   </children>
 </archimate:ArchimateDiagramModel>
