@@ -1,12 +1,12 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="12"
-    id="id-eb970e5eb958414897560eb135f72238">
+    name="11"
+    id="id-d4f082784a024052800b606dd51c73d6">
   <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-78076c02ad6742c597d38725bcc664d3.xml#id-78076c02ad6742c597d38725bcc664d3"/>
+  <target
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-816564132bfb48789317c8c752eb56de.xml#id-816564132bfb48789317c8c752eb56de"/>
-  <target
-      xsi:type="archimate:BusinessInterface"
-      href="BusinessInterface_id-c8ed42f7986b408da9d7e1c727b5b842.xml#id-c8ed42f7986b408da9d7e1c727b5b842"/>
 </archimate:FlowRelationship>
